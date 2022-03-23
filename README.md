@@ -2,7 +2,7 @@
 ### Hi there 👋
  
 Feel free to listen to some music
-(https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa&count={3})
+https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa&count={3}
 
 <!--**Gui37/Gui37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
