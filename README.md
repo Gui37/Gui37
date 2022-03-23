@@ -7,6 +7,12 @@ Hi there 👋
 <a href="https://github.com/Gui37/Livraria_Academica">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/gui37" />
 </a>
+ 
+  
+   
+    
+     
+      
 
 Feel free to listen to some music 🎧🎧
 
