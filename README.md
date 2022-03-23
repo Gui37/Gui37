@@ -9,5 +9,5 @@ Feel free to listen to some music 🎧🎧
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/Gui37/Livraria_Academica">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui37&repo=Livraria_Academica" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/gui37" />
 </a>
