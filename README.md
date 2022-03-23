@@ -6,5 +6,4 @@
 
 Feel free to listen to some music
 
-(https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa&count=3)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa)
