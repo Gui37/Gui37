@@ -8,7 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui37&repo=Livraria_Academica" />
 </a>
 
-
 Feel free to listen to some music
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa&width=800)
+(https://spotify-recently-played-readme.vercel.app/api?user=qm21a9v0hwm925b1b8ci6mcxa&width=800)
