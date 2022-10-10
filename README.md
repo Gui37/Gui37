@@ -5,7 +5,7 @@ Hi there 👋
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/Gui37/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact)](https://github.com/gui37" />
+  <img align="center" src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact)](https://github.com/gui37)" />
 </a>
  
 
