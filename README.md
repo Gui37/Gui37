@@ -1,5 +1,4 @@
 Hi there 👋
-![banner](https://user-images.githubusercontent.com/46488832/159731149-0b29add4-8609-4368-b2aa-12eb056c5160.png)
 
 <h1>Here are some of my Github stats</h1>
 <a href="https://github.com/Gui37">
