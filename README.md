@@ -2,7 +2,7 @@ Hi there 👋
 
 <h1>Here are some of my Github stats</h1>
 <a href="https://github.com/Gui37">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=radical&count_private=true&hide=,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=radical&count_private=true" />
 </a>
 <p><p><p>
 <a href="https://github.com/Gui37/">
