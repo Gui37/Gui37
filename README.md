@@ -6,7 +6,7 @@ Hi there 👋
 </a>
 <p><p><p>
 <a href="https://github.com/Gui37/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=php,js,html&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=php,javascript,html&langs_count=7" />
 </a>
  
 
