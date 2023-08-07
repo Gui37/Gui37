@@ -31,4 +31,4 @@ Hello there 👋
   
 <br />
 
-![Snake animation](https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake.svg)
