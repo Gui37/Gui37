@@ -4,7 +4,7 @@ Hello there 👋
 
 <div align = "center">
   <img height="180em" src="https://gui37-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://gui37-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=php,javascript,css,html&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://gui37-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=css,html&langs_count=7&theme=algolia"/>
 </div>
 
 <br />
