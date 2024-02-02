@@ -43,7 +43,7 @@ Hello there 👋
 </div>
   
 <br />
- ### *** Dev Meme ***
+ <h3>Dev Meme</h3>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+<br />
 ![Snake animation](https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake.svg)
