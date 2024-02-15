@@ -1,7 +1,7 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *" 
   
@@ -18,7 +18,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
