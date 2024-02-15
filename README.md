@@ -36,8 +36,6 @@ Hello there 👋
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-
-  
  </div>
 
 </div>
@@ -46,4 +44,5 @@ Hello there 👋
  <h3>Dev Meme</h3>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <br />
-![Snake animation](https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake.svg)
+<h3>Snake Commit </h3>
+<img src='https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake-dark.svg'/>
