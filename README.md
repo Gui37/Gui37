@@ -41,8 +41,5 @@ Hello there 👋
 </div>
   
 <br />
- <h3>Dev Meme</h3>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<br />
 <h3>Snake Commit </h3>
 <img src='https://github.com/Gui37/Gui37/blob/output/github-contribution-grid-snake-dark.svg'/>
