@@ -3,8 +3,8 @@ Hello there 👋
 <h1>Here are some of my Github stats</h1>
 
 <div align = "center">
-  <img height="180em" src="https://gui37-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://gui37-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=css,html,php&langs_count=9&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui37&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui37&layout=compact&hide=css,html,php&langs_count=9&theme=tokyonight"/>
 </div>
 
 <br />
